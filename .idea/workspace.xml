@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a48e53bf-912d-4cf8-a94d-46e021aeeb2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zqg5cM6Hb7MjgvebbXOHjHGtPY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="SpaceChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a48e53bf-912d-4cf8-a94d-46e021aeeb2f" name="Default Changelist" comment="" />
+      <created>1585571855071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585571855071</updated>
+      <workItem from="1585571858502" duration="11235000" />
+      <workItem from="1585592218290" duration="3653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="292" key="#xdebugger.evaluate" timestamp="1585594665286">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="754" y="292" key="#xdebugger.evaluate/67.27.1853.1052@67.27.1853.1052" timestamp="1585594665286" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1585595964859">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1585595964859" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1585595964859">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1585595964859" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1585595964859">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1585595964859" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1585595964859">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1585595964859" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1585595222041">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1585595222041" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1585595222041">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1585595222041" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1585595222041">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1585595222041" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1585595222041">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1585595222041" />
+    <state x="653" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1585592218731">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="653" y="377" key="com.intellij.ide.util.TipDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1585592218731" />
+  </component>
+</project>
